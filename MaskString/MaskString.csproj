@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+
+    <LangVersion>9.0</LangVersion>
+    <PackageId>MasksString</PackageId>
+    <Version>1.0.1</Version>
+    <License>MIT</License>
+    <Authors>Wanderley Machado</Authors>
+    <Company>wsm Tecnologia</Company>
+    <PackageDescription>Extensions for Docs</PackageDescription>
+    <Description>Extensions for Docs from Brazil</Description>
+    <RepositoryUrl>https://github.com/wmachado2016/MasksDocs</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/wmachado2016/MasksDocs</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Masks</PackageTags>
+    <Title>Masks Extensions</Title>
+    <Summary>Extensions for Docs Brazil</Summary>
+  </PropertyGroup>
+</Project>
